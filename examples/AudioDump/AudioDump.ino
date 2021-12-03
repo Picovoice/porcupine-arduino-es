@@ -9,7 +9,7 @@
     specific language governing permissions and limitations under the License.
 */
 
-#include <Porcupine_DE.h>
+#include <Porcupine_ES.h>
 #include <stdbool.h>
 
 #include "utility/pv_audio_dump.h"

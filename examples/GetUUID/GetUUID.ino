@@ -9,7 +9,7 @@
     specific language governing permissions and limitations under the License.
 */
 
-#include <Porcupine_DE.h>
+#include <Porcupine_ES.h>
 
 void setup() {
     Serial.begin(9600);
